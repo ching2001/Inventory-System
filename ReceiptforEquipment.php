@@ -47,7 +47,6 @@ if (!isset($_SESSION['user'])) {
 
 <body class="hold-transition skin-red sidebar-mini" style="background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fmsuiitph&psig=AOvVaw029RRkMYgg-bOpWcKKjRCT&ust=1675167856076000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiS0N2k7_wCFQAAAAAdAAAAABAI)">
   <div class="wrapper">
-
     <header class="main-header">
       <!-- Logo -->
       <a href="Homepage.php" class="logo">
